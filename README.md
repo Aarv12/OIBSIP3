@@ -1,2 +1,2 @@
-# OIBSIP2
- TASK INTER
+# OIBSIP
+ Web Development Intern
